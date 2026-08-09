@@ -14,5 +14,5 @@ The code was written by master's student Martina Grandi during her internship an
 
 <p align="center">
   <img src="5MHz.png" width="45%" />
-  <img src="5MHz.png" width="45%" />
+  <img src="25MHz.png" width="45%" />
 </p>
